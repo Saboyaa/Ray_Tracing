@@ -101,3 +101,21 @@ Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-p
 [Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
 
 (firefox:20274): Gdk-WARNING **: 11:10:15.407: Error writing selection data: Error writing to file descriptor: Broken pipe
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 12:52:41.610: Error writing selection data: Error writing to file descriptor: Broken pipe
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 13:05:23.653: Error writing selection data: Error writing to file descriptor: Broken pipe
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 13:05:33.675: Error writing selection data: Error writing to file descriptor: Broken pipe
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 13:07:40.121: Error writing selection data: Error writing to file descriptor: Broken pipe
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 13:23:02.627: Error writing selection data: Error writing to file descriptor: Broken pipe
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 13:24:28.605: Error writing selection data: Error writing to file descriptor: Broken pipe
