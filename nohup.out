@@ -1,0 +1,103 @@
+[WARN  glean_core] Shutdown called before Glean is initialized. Waiting.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:13:58.868: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:13:58.868: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:13:58.873: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:13:58.873: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:14:59.361: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:14:59.361: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:14:59.365: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:14:59.365: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:52:57.187: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:52:57.188: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:52:57.220: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 14:52:57.220: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 15:19:50.204: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 15:19:50.204: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 15:19:50.251: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 15:19:50.251: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 15:54:52.340: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 15:54:52.340: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 15:54:52.373: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 15:54:52.373: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 17:31:47.357: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 17:31:47.357: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 17:31:47.362: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 17:31:47.362: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 20:33:01.660: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 20:33:01.660: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 20:33:01.769: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[Parent 3473, Main Thread] WARNING: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:3473): Gdk-WARNING **: 20:33:01.769: Couldn't map window 0x7fc490d32de0 as subsurface because its parent is not mapped.
+[WARN  glean_core] Shutdown called before Glean is initialized. Waiting.
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 20:31:21.995: Error writing selection data: Error writing to file descriptor: Broken pipe
+[Parent 20274, Main Thread] WARNING: Server is missing xdg_foreign support: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 21:06:23.103: Server is missing xdg_foreign support
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 21:52:39.007: Error writing selection data: Error writing to file descriptor: Broken pipe
+[Parent 20274, Main Thread] WARNING: Server is missing xdg_foreign support: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 22:09:32.847: Server is missing xdg_foreign support
+[Parent 20274, Main Thread] WARNING: Error writing selection data: Error writing to file descriptor: Broken pipe: 'glib warning', file /usr/src/debug/firefox/firefox-150.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:20274): Gdk-WARNING **: 11:10:15.407: Error writing selection data: Error writing to file descriptor: Broken pipe

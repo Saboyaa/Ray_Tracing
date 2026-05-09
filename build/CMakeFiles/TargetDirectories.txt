@@ -1,0 +1,3 @@
+/home/sabs/code/ray-tracing/build/CMakeFiles/MyApp.dir
+/home/sabs/code/ray-tracing/build/CMakeFiles/edit_cache.dir
+/home/sabs/code/ray-tracing/build/CMakeFiles/rebuild_cache.dir
